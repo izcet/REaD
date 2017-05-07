@@ -65,6 +65,12 @@ import de.ub0r.android.lib.apis.Contact;
 import de.ub0r.android.lib.apis.ContactsWrapper;
 import de.ub0r.android.logg0r.Log;
 
+
+
+/* YourView.setBackgroundColor(Color.argb(255, 255, 255, 255)); */
+
+
+
 /**
  * Main Activity showing conversations.
  *

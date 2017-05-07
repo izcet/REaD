@@ -22,6 +22,9 @@
 	-->
 
 <resources>
+    <!-- <color name="x">#FFFFFF</color> -->
+
+
     <string formatted="false" name="about_">About</string>
     <string formatted="false" name="about_hint">About this app</string>
     <string formatted="false" name="faq_hint">Some tips and tricks, how to set up this app.</string>
