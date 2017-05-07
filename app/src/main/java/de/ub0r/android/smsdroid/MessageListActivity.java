@@ -287,7 +287,7 @@ public class MessageListActivity extends AppCompatActivity implements OnItemClic
 
         mAdView = (AdView) findViewById(R.id.ads);
         mAdView.setVisibility(View.GONE);
-        if (!DonationHelper.hideAds(this)) {
+        if (false) { // !DonationHelper.hideAds(this)) {
             mAdView.loadAd(new AdRequest.Builder().build());
             mAdView.setAdListener(new AdListener() {
                 @Override
