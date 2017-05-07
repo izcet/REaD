@@ -20,8 +20,8 @@
 	<string name="app_name">REaD</string>
 	<string name="sender_name">SMS (REaD)</string>
 	<string name="faq_">FAQ</string>
-	<string name="google_plus_">Google+</string>
-	<string name="author"><![CDATA[Felix Bechstein <f@ub0r.de>\nRobert Priebs <rpriebs@gmail.com> (emoticons)\ncore.equip http://corequip.de (icons)\nDaniel Kalinic <kalinic3@gmail.com> (bubbles)\nAlfonso Picón <apictor@gmail.com> (Spanish)\nMarek Wehmer <marek.wehmer@gmail.com> (Spamfilter, Tiled Layout)\nxim <ximonline@gmail.com> (Russian)\nIsmael A. <ismael.arab@gmail.com> (French)\nand many more…]]></string>
+	<string name="google_plus_">GitHub</string>
+	<string name="author"><![CDATA[Bret Miller (bmiller)\nIsaac Rhett (irhett)\nWyatt Lutt (rlutt)\nAnd Jeff (jeftekha)\n\nOriginal Source by:\nFelix Bechstein <f@ub0r.de>\nRobert Priebs <rpriebs@gmail.com> (emoticons)\ncore.equip http://corequip.de (icons)\nDaniel Kalinic <kalinic3@gmail.com> (bubbles)\nAlfonso Picón <apictor@gmail.com> (Spanish)\nMarek Wehmer <marek.wehmer@gmail.com> (Spamfilter, Tiled Layout)\nxim <ximonline@gmail.com> (Russian)\nIsmael A. <ismael.arab@gmail.com> (French)\nand many more…]]></string>
 	<string name="website">https://github.com/felixb/smsdroid</string>
 	<string name="privacy_policy_url" translatable="false">https://github.com/felixb/smsdroid/blob/master/PRIVACY.md</string>
 	<string name="DATEFORMAT_details">dd.MM.yyyy kk:mm</string>

@@ -263,7 +263,7 @@ public final class SenderActivity extends AppCompatActivity implements OnClickLi
         ContentValues values = new ContentValues();
         values.put(TYPE, Message.SMS_DRAFT);
         values.put(BODY, message);
-        values.put(READ, 1);
+        values.put(READ, 0);
         values.put(ADDRESS, recipient);
         Uri draft = null;
         // save sms to content://sms/sent

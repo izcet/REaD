@@ -25,9 +25,9 @@
     <string formatted="false" name="about_">About</string>
     <string formatted="false" name="about_hint">About this app</string>
     <string formatted="false" name="faq_hint">Some tips and tricks, how to set up this app.</string>
-    <string formatted="false" name="feedback_">Feedback</string>
-    <string formatted="false" name="feedback_hint">Report bugs, request features ...</string>
-    <string formatted="false" name="google_plus_hint">Follow me on Google+.\nGet update notifications etc.</string>
+    <string formatted="false" name="feedback_">Bluemix</string>
+    <string formatted="false" name="feedback_hint">For a true heartfelt connection.</string>
+    <string formatted="false" name="google_plus_hint">View the source code.\nClone the source code.\n???\nProfit</string>
     <string formatted="false" name="about0">REaD is a SMS messenger app that highlights text based on the emotional
 	tones detected.</string>
     <string formatted="false" name="more_apps_">More Apps..</string>
@@ -119,7 +119,7 @@
     <string formatted="false" name="downloading_">Downloading..</string>
     <string formatted="false" name="error_conv_null">Error getting conversation from DB!</string>
     <string formatted="false" name="error_sending_failed">Sending failed</string>
-    <string formatted="false" name="text_hint">Text</string>
+    <string formatted="false" name="text_hint">Write a message here!</string>
     <string formatted="false" name="paste_">[Paste from clipboard]</string>
     <string formatted="false" name="restore_">Restore last message</string>
     <string formatted="false" name="attachment_saved">Saved attachment on SD card as:</string>
@@ -207,8 +207,8 @@
     <string formatted="false" name="reset">Reset</string>
     <string formatted="false" name="license_">License:</string>
     <string formatted="false" name="license">GPLv3 - see http://www.gnu.org/licenses/gpl-3.0.txt</string>
-    <string formatted="false" name="author_">Author:</string>
-    <string formatted="false" name="website_">Website:</string>
+    <string formatted="false" name="author_">Hacked by:</string>
+    <string formatted="false" name="website_">Original Author Website:</string>
     <string formatted="false" name="mobile_only_">Only mobile numbers</string>
     <string formatted="false" name="mobile_only_hint">Only suggest mobile numbers for recipient</string>
     <string formatted="false" name="edit_short_text_">Edit as short message</string>
