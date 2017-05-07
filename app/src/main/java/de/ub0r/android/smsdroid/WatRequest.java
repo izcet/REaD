@@ -8,6 +8,10 @@ import de.ub0r.android.smsdroid.Utterance;
 import de.ub0r.android.smsdroid.UtterancesTone;
 import de.ub0r.android.smsdroid.ToneAnalysis;
 
+
+import android.os.AsyncTask;
+import android.util.Log;
+
 //import de.ub0r.android.smsdroid.ToneAnalyzer;
 
 /**
@@ -16,19 +20,29 @@ import de.ub0r.android.smsdroid.ToneAnalysis;
 
 public class WatRequest {
 
-    ToneAnalyzer service;
+    //ToneAnalyzer service;
 
-    public WatRequest(String user, String pass){
+    public WatRequest(/*String user, String pass*/){
+
+        /*service = new ToneAnalyzer(ToneAnalyzer.VERSION_DATE_2016_05_19);
+        service.setUsernameAndPassword(user, pass);*/
+
+    }
+
+    public static ToneAnalysis getToneOfMessage(String message, String user, String pass) {
+        ToneAnalysis tone;
+        ToneAnalyzer service;
 
         service = new ToneAnalyzer(ToneAnalyzer.VERSION_DATE_2016_05_19);
         service.setUsernameAndPassword(user, pass);
 
-    }
-
-    public ToneAnalysis getToneOfMessage(String message) {
-        ToneAnalysis tone;
-
-        tone = service.getTone(message, null).execute();
+        tone = null;
+        try {
+            service.getTone(message, null).execute();
+        } catch (Exception e) {
+            System.out.println(e);
+            Log.e("MYAPP", "exception", e);
+        }
         return (tone);
     }
 }

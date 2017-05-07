@@ -236,11 +236,17 @@ public class SmsReceiver extends BroadcastReceiver {
                     if (action.equals(ACTION_SMS_NEW)) {
                         // API19+: save message to the database
                         ContentValues values = new ContentValues();
-                        WatRequest ibm = new WatRequest("user", "pass");
+                        //WatRequest ibm = new WatRequest("70a67a22-cbf3-41cf-a4a5-5718e750ff03", "BoHdc3ZjklWO");
 
                         values.put("address", s);
-                        values.put("body", text);
-                        ToneAnalysis tone = ibm.getToneOfMessage(text);
+
+                        /*try {
+                            ToneAnalysis tone = WatRequest.getToneOfMessage(text, "70a67a22-cbf3-41cf-a4a5-5718e750ff03", "BoHdc3ZjklWO");*/
+                            values.put("body", text);
+                        /*}catch (Exception e){
+                            values.put("body", e.toString());
+                        }*/
+                        //System.err.println(tone);
                         //values.put("weight", /*get highest weight*/);
                         //values.put("color", /*get color*/);
 
