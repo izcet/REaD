@@ -58,6 +58,7 @@ import android.widget.Toast;
 
 import java.util.Calendar;
 
+// remove this if possible
 import de.ub0r.android.lib.DonationHelper;
 import de.ub0r.android.lib.Utils;
 import de.ub0r.android.lib.apis.Contact;
@@ -282,7 +283,7 @@ public final class ConversationListActivity extends AppCompatActivity implements
             setContentView(R.layout.conversationlist);
         }
 
-        if (DonationHelper.hideAds(this)) {
+        if (true){ // DonationHelper.hideAds(this)) {
             findViewById(R.id.cookie_consent).setVisibility(View.GONE);
         }
 
@@ -367,7 +368,7 @@ public final class ConversationListActivity extends AppCompatActivity implements
     @Override
     public boolean onCreateOptionsMenu(final Menu menu) {
         getMenuInflater().inflate(R.menu.conversationlist, menu);
-        if (DonationHelper.hideAds(this)) {
+        if (true){ //DonationHelper.hideAds(this)) {
             menu.removeItem(R.id.item_donate);
         }
         return true;
