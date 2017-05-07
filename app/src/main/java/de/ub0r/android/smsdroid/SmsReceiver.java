@@ -49,10 +49,12 @@ import android.telephony.SmsMessage;
 import android.text.TextUtils;
 import android.util.TypedValue;
 
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 import de.ub0r.android.logg0r.Log;
+import de.ub0r.android.smsdroid.WatRequest;
 
 /**
  * Listen for new sms.
@@ -234,8 +236,14 @@ public class SmsReceiver extends BroadcastReceiver {
                     if (action.equals(ACTION_SMS_NEW)) {
                         // API19+: save message to the database
                         ContentValues values = new ContentValues();
+                        WatRequest ibm = new WatRequest("user", "pass");
+
                         values.put("address", s);
                         values.put("body", text);
+                        ToneAnalysis tone = ibm.getToneOfMessage(text);
+                        //values.put("weight", /*get highest weight*/);
+                        //values.put("color", /*get color*/);
+
                         context.getContentResolver().insert(Uri.parse("content://sms/inbox"),
                                 values);
                         Log.d(TAG, "Insert SMS into database: ", s, ", ", text);

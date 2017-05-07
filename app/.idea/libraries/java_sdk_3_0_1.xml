@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java-sdk-3.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/java-sdk/3.0.1/d3d26c492013955d2ec0529a023015731dd2cc38/java-sdk-3.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/java-sdk/3.0.1/1b43b8e76594db373aca02a1e2efb5bd818bd55e/java-sdk-3.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

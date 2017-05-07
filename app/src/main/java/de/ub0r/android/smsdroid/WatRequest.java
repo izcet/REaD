@@ -1,4 +1,14 @@
-package com.example.siliconhacks.read;
+package de.ub0r.android.smsdroid;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import de.ub0r.android.smsdroid.ToneChatRequest;
+import de.ub0r.android.smsdroid.Utterance;
+import de.ub0r.android.smsdroid.UtterancesTone;
+import de.ub0r.android.smsdroid.ToneAnalysis;
+
+//import de.ub0r.android.smsdroid.ToneAnalyzer;
 
 /**
  * Created by SiliconHacks on 5/6/17.
@@ -8,7 +18,7 @@ public class WatRequest {
 
     ToneAnalyzer service;
 
-    Static void WatRequest(String user, String pass){
+    public WatRequest(String user, String pass){
 
         service = new ToneAnalyzer(ToneAnalyzer.VERSION_DATE_2016_05_19);
         service.setUsernameAndPassword(user, pass);

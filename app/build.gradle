@@ -66,7 +66,9 @@ dependencies {
     compile 'com.android.support:support-v4:25.2.0'
     compile 'com.android.support:appcompat-v7:25.2.0'
     compile 'com.google.android.gms:play-services-ads:10.0.1'
+    compile 'com.ibm.watson.developer_cloud:java-sdk:3.0.1'
     compile 'de.ub0r.android.lib:lib:1.1.1'
     compile 'de.ub0r.android.logg0r:logg0r:2.0.0'
     compile 'de.ub0r.android.eucookieconsent:library:0.2.0@aar'
+
 }
