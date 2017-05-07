@@ -24,7 +24,7 @@
   <string formatted="false" name="feedback_">Σχόλια</string>
   <string formatted="false" name="feedback_hint">Αναφορά σφαλμάτων, αίτημα για λειτουργίες ...</string>
   <string formatted="false" name="google_plus_hint">Ακολουθήστε με στο Google+.\nΛάβετε ειδοποιήσεις ενημερώσεων κλπ.</string>
-  <string formatted="false" name="about0">Το SMSdroid σας επιτρέπει να διαβάζετε και να γράφετε SMS με κάθε άλλη εφαρμογή.</string>
+  <string formatted="false" name="about0">Το REaD σας επιτρέπει να διαβάζετε και να γράφετε SMS με κάθε άλλη εφαρμογή.</string>
   <string formatted="false" name="more_apps_">Περισσότερες Εφαρμογές...</string>
   <string formatted="false" name="settings">Προτιμήσεις</string>
   <string formatted="false" name="new_message_">Νέο μήνυμα</string>
@@ -174,8 +174,8 @@
   <string formatted="false" name="mobile_only_">Μόνο αριθμοί κινητών</string>
   <string formatted="false" name="edit_short_text_">Επεξεργασία ως σύντομο μήνυμα</string>
   <string formatted="false" name="permission_save_to_db">Αποθήκευση μηνυμάτων στη βάση δεδομένων</string>
-  <string formatted="false" name="not_default_app">Το SMSdroid δεν είναι η προεπιλεγμένη εφαρμογή SMS</string>
-  <string formatted="false" name="not_default_app_message">Το SMSdroid πρέπει να είναι η προεπιλεγμένη εφαρμογή SMS για να λειτουργήσει σωστά</string>
+  <string formatted="false" name="not_default_app">Το REaD δεν είναι η προεπιλεγμένη εφαρμογή SMS</string>
+  <string formatted="false" name="not_default_app_message">Το REaD πρέπει να είναι η προεπιλεγμένη εφαρμογή SMS για να λειτουργήσει σωστά</string>
   <string formatted="false" name="forwarded_sms_clean_">Τροποποίηση ληφθέντων SMS</string>
   <string formatted="false" name="error_unknown">Άγνωστο σφάλμα</string>
   <string formatted="false" name="donate_remove_ads_">Δωρεά/αφαίρεση διαφημίσεων</string>

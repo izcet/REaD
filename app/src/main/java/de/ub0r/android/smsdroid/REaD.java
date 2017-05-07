@@ -46,7 +46,7 @@ import de.ub0r.android.logg0r.Log;
 /**
  * @author flx
  */
-public final class SMSdroid extends Application {
+public final class REaD extends Application {
 
     /**
      * Tag for logging.
@@ -66,7 +66,7 @@ public final class SMSdroid extends Application {
         }
 
         super.onCreate();
-        Log.i(TAG, "init SMSdroid v" + BuildConfig.VERSION_NAME + " (" + BuildConfig.VERSION_CODE
+        Log.i(TAG, "init REaD v" + BuildConfig.VERSION_NAME + " (" + BuildConfig.VERSION_CODE
                 + ")");
 
         // check for default app only when READ_SMS was granted

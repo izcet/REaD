@@ -22,7 +22,7 @@
   <string formatted="false" name="about_hint">O aplikaci</string>
   <string formatted="false" name="faq_hint">Nějaké tipy a tricky, jak nastavit aplikaci.</string>
   <string formatted="false" name="feedback_hint">Zprávy o chybách, požadavky na nové funkce...</string>
-  <string formatted="false" name="about0">SMSdroid vám dovolí číst vaše sms a psát sms s jinými aplikacemi</string>
+  <string formatted="false" name="about0">REaD vám dovolí číst vaše sms a psát sms s jinými aplikacemi</string>
   <string formatted="false" name="more_apps_">Více Apps..</string>
   <string formatted="false" name="settings">Nastavení</string>
   <string formatted="false" name="new_message_">Nová zpráva</string>
@@ -150,7 +150,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Dekodování destinné NCR</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Někteří poskytovatelé dodávají unicode zprávy jako destinné NCR(&amp;#0000;). Zkontrolujte auto dekodování těchto subjektů.</string>
   <string formatted="false" name="activate_sender_">Aktivní odesílatel</string>
-  <string formatted="false" name="activate_sender_hint">Aktivní SMSdroid\'s odesílatel zprávy.</string>
+  <string formatted="false" name="activate_sender_hint">Aktivní REaD\'s odesílatel zprávy.</string>
   <string formatted="false" name="fix_numbers_">Oprava čísel</string>
   <string formatted="false" name="fix_numbers_hint">Nahraďte některé části čísel regulerním výrazem před odesláním. Většina uživatelů to nepotřebuje měnit.</string>
   <string formatted="false" name="fix_number1_replace_">Nahradit 1</string>
@@ -186,8 +186,8 @@
   <string formatted="false" name="edit_short_text_hint">Zvažte vstup krátké zprávy. Klávesnice obvykle nahradí vstup s tlačítkem smiley, pokud je povoleno.</string>
   <string formatted="false" name="permission_save_to_db">Uložit zprávy do databáze.</string>
   <string formatted="false" name="permission_save_to_db_description">Uložit zprávy odesláním pomocí jiné aplikace do databáze zpráv.</string>
-  <string formatted="false" name="not_default_app">SMSdroid není výchozí SMS app</string>
-  <string formatted="false" name="not_default_app_message">SMSdroid potřebuje být výchozí SMS app, aby pracovala správně.</string>
+  <string formatted="false" name="not_default_app">REaD není výchozí SMS app</string>
+  <string formatted="false" name="not_default_app_message">REaD potřebuje být výchozí SMS app, aby pracovala správně.</string>
   <string formatted="false" name="forwarded_sms_clean_">Modifikace přijatých zpráv</string>
   <string formatted="false" name="error_unknown">Neznámá chyba</string>
   <string formatted="false" name="permissions_">Oprávnění</string>

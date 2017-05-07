@@ -19,7 +19,7 @@
         not, see <http://www.gnu.org/licenses/>.
     -->
 <resources>
-  <string formatted="false" name="market_about">SMSdroid to wyjątkowa aplikacja do obsługi wiadomości pozwalająca wysyłać je za pomocą dowolnej innej aplikacji.</string>
+  <string formatted="false" name="market_about">REaD to wyjątkowa aplikacja do obsługi wiadomości pozwalająca wysyłać je za pomocą dowolnej innej aplikacji.</string>
   <string formatted="false" name="market_oss">Ta aplikacja jest programem open source tworzonym w wolnym czasie. Dodawanie złych komentarzy w markecie nie pomoże w ulepszaniu jej.\nProblemy z aplikacją proszę opisywać na jej stronie domowej.</string>
   <string formatted="false" name="market_translation">Możesz pomóc w tłumaczeniu tej aplikacji na swój język tutaj: https://crowdin.com/project/smsdroid/invite</string>
 </resources>

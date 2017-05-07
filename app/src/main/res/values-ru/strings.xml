@@ -24,7 +24,7 @@
   <string formatted="false" name="feedback_">Отзывы</string>
   <string formatted="false" name="feedback_hint">Сообщить об ошибкаx, внести предложения ...</string>
   <string formatted="false" name="google_plus_hint">Читайте на Google+.\nУведомления об обновлениях и т.д.</string>
-  <string formatted="false" name="about0">SMSdroid позволяет читать и отправлять SMS сообщения. Работает с любыми SMS-приложениями.</string>
+  <string formatted="false" name="about0">REaD позволяет читать и отправлять SMS сообщения. Работает с любыми SMS-приложениями.</string>
   <string formatted="false" name="more_apps_">Другие приложения..</string>
   <string formatted="false" name="settings">Настройки</string>
   <string formatted="false" name="new_message_">Новое сообщение</string>
@@ -74,7 +74,7 @@
   <string formatted="false" name="hide_paste_">Скрыть кнопку \'Вставить из буфера\'</string>
   <string formatted="false" name="hide_paste_hint">Скрыть кнопку \'Вставить из буфера\' в текстовом поле.</string>
   <string formatted="false" name="hide_widget_label_">Скрыть подпись виджета</string>
-  <string formatted="false" name="hide_widget_label_hint">Не показывать название виджета \"SMSdroid\" на рабочем столе</string>
+  <string formatted="false" name="hide_widget_label_hint">Не показывать название виджета \"REaD\" на рабочем столе</string>
   <string formatted="false" name="hide_delete_all_threads_">Скрыть \'Удалить все диалоги\'</string>
   <string formatted="false" name="hide_delete_all_threads_hint">Скрыть параметр меню \'Удалить все диалоги\'</string>
   <string formatted="false" name="hide_message_count_">Скрыть подсчет сообщений</string>
@@ -163,7 +163,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Автодекодировка NCR</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Некоторые провайдеры доставляют юникод сообщения в десятичной кодировке NCR (�). Установите автоматическое декодирование таких сообщений.</string>
   <string formatted="false" name="activate_sender_">Функция отправки</string>
-  <string formatted="false" name="activate_sender_hint">Активировать функцию отправки сообщений SMSdroid</string>
+  <string formatted="false" name="activate_sender_hint">Активировать функцию отправки сообщений REaD</string>
   <string formatted="false" name="fix_numbers_">Автозамена номера</string>
   <string formatted="false" name="fix_numbers_hint">Перед отправкой автоматически заменяет часть телефонного номера текстом. Большинству пользователей эта функция не нужна.</string>
   <string formatted="false" name="fix_number1_regex_">Рег.выраж. 1</string>
@@ -210,8 +210,8 @@
   <string formatted="false" name="edit_short_text_hint">Рассмотрим ввод коротких сообщений. Клавиатура, как правило, заменяет введенное  смайликом, если разрешено.</string>
   <string formatted="false" name="permission_save_to_db">Сохранять сообщения в базу данных</string>
   <string formatted="false" name="permission_save_to_db_description">Сохранять сообщения, отправленные другими приложениями в базу сообщений Android</string>
-  <string formatted="false" name="not_default_app">SMSdroid не является SMS-приложением по умолчанию</string>
-  <string formatted="false" name="not_default_app_message">Для правильной работы SMSdroid должен быть SMS-приложением по умолчанию</string>
+  <string formatted="false" name="not_default_app">REaD не является SMS-приложением по умолчанию</string>
+  <string formatted="false" name="not_default_app_message">Для правильной работы REaD должен быть SMS-приложением по умолчанию</string>
   <string formatted="false" name="forwarded_sms_clean_">Изменить полученное СМС</string>
   <string formatted="false" name="forwarded_sms_clean_hint">Удалить отправителя в полученном СМС в соответствии с \"([0-9a-zA-Z]+):\" и использовать этот номер в качестве отправителя.</string>
   <string formatted="false" name="error_unknown">Неизвестная ошибка</string>

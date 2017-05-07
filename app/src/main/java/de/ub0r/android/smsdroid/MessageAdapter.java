@@ -306,7 +306,7 @@ public class MessageAdapter extends ResourceCursorAdapter {
             }
             holder.ivPhoto.setVisibility(View.VISIBLE);
             final Intent i = m.getContentIntent();
-            holder.ivPhoto.setOnClickListener(SMSdroid.getOnClickStartActivity(context, i));
+            holder.ivPhoto.setOnClickListener(REaD.getOnClickStartActivity(context, i));
             holder.ivPhoto.setOnLongClickListener(m.getSaveAttachmentListener(mActivity));
         } else {
             holder.ivPhoto.setVisibility(View.GONE);

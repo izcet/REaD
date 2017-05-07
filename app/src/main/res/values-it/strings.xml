@@ -22,7 +22,7 @@
   <string formatted="false" name="about_hint">Info sull\'app</string>
   <string formatted="false" name="faq_hint">Alcuni trucchi e suggerimenti su come impostare l\'applicazione.</string>
   <string formatted="false" name="feedback_hint">Segnala bug, richiedi funzioni ...</string>
-  <string formatted="false" name="about0">SMSdroid permette la lettura di SMS e l\'invio attraverso altre applicazioni.</string>
+  <string formatted="false" name="about0">REaD permette la lettura di SMS e l\'invio attraverso altre applicazioni.</string>
   <string formatted="false" name="more_apps_">Altre app..</string>
   <string formatted="false" name="settings">Impostazioni</string>
   <string formatted="false" name="new_message_">Nuovo messaggio</string>
@@ -154,7 +154,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Decodifica NCR decimale</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Alcuni provider recapitano i messaggi unicode codificati come decimali NCR (�). Controlla per autodecodificare tali entità.</string>
   <string formatted="false" name="activate_sender_">Attiva invio</string>
-  <string formatted="false" name="activate_sender_hint">Attiva l\'invio messaggi di SMSdroid.</string>
+  <string formatted="false" name="activate_sender_hint">Attiva l\'invio messaggi di REaD.</string>
   <string formatted="false" name="fix_numbers_">Correggi numeri</string>
   <string formatted="false" name="fix_numbers_hint">Sostituisce parti di un numero con una espressione regolare prima dell\'invio. La maggior parte degli utenti non necessità di cambiarlo.</string>
   <string formatted="false" name="fix_number1_regex_">Espressione regolare 1</string>

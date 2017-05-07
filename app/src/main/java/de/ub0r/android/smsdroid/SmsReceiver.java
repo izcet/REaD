@@ -147,7 +147,7 @@ public class SmsReceiver extends BroadcastReceiver {
 
     @Override
     public final void onReceive(final Context context, final Intent intent) {
-        if (SMSdroid.isDefaultApp(context)) {
+        if (REaD.isDefaultApp(context)) {
             handleOnReceive(this, context, intent);
         }
     }

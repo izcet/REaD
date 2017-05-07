@@ -24,7 +24,7 @@
   <string formatted="false" name="feedback_">Visszajelzés</string>
   <string formatted="false" name="feedback_hint">Hibajelentés küldése, funkciók kérése ...</string>
   <string formatted="false" name="google_plus_hint">Kövess engem Google+-on.\nÉrtesülj frissítésekről stb.</string>
-  <string formatted="false" name="about0">Az SMSdroiddal olvashatod az smseid és üzenhetsz más alkalmazásokkal.</string>
+  <string formatted="false" name="about0">Az REaDdal olvashatod az smseid és üzenhetsz más alkalmazásokkal.</string>
   <string formatted="false" name="more_apps_">Több Alkalmazás...</string>
   <string formatted="false" name="settings">Beállítások</string>
   <string formatted="false" name="new_message_">Új üzenet</string>
@@ -158,7 +158,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Decimális NCR dekódolása</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Néhány szolgáltató az unikód üzeneteket decimális NCR (�) kódolással továbbítja. Jelölje meg az automata dekódoláshoz.</string>
   <string formatted="false" name="activate_sender_">Küldő aktiválása</string>
-  <string formatted="false" name="activate_sender_hint">Aktiválja az SMSdroid üzenet küldőjét.</string>
+  <string formatted="false" name="activate_sender_hint">Aktiválja az REaD üzenet küldőjét.</string>
   <string formatted="false" name="fix_numbers_">Fix számok</string>
   <string formatted="false" name="fix_numbers_hint">Váltsa ki a szám egy részét egy \"szabályos kifejezéssel\" küldés előtt. A legtöbb felhasználónak ezen nem szükséges változtatni.</string>
   <string formatted="false" name="fix_number1_replace_">Csere 1</string>

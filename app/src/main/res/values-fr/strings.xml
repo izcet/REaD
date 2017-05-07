@@ -24,7 +24,7 @@
   <string formatted="false" name="feedback_">Commentaires</string>
   <string formatted="false" name="feedback_hint">Signaler des bugs, demander de nouvelles fonctionnalités...</string>
   <string formatted="false" name="google_plus_hint">Suivez moi sur Google+\nRecevez des notifications de mise à jour etc.</string>
-  <string formatted="false" name="about0">SMSdroid vous permet de lire et d\'écrire vos sms avec n\'importe quelle autre application.</string>
+  <string formatted="false" name="about0">REaD vous permet de lire et d\'écrire vos sms avec n\'importe quelle autre application.</string>
   <string formatted="false" name="more_apps_">Plus d\'applications..</string>
   <string formatted="false" name="settings">Préférences</string>
   <string formatted="false" name="new_message_">Nouveau message</string>
@@ -161,7 +161,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Code décimal NCR</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Certains fournisseurs de services livrent des messages encodés en décimal NCR (). Sélectionnez pour automatiquement décoder ce type de messages.</string>
   <string formatted="false" name="activate_sender_">Activer l\'originateur</string>
-  <string formatted="false" name="activate_sender_hint">Activer l\'originateur de message SMSdroid</string>
+  <string formatted="false" name="activate_sender_hint">Activer l\'originateur de message REaD</string>
   <string formatted="false" name="fix_numbers_">Corriger les numéros</string>
   <string formatted="false" name="fix_numbers_hint">Remplacer des parties du numéro à l\'aide d\'une expression régulière avant l\'envoi. La plupart des utilisateurs n\'ont pas besoin de modifier cela.</string>
   <string formatted="false" name="fix_number1_regex_">Expression régulière 1</string>
@@ -208,8 +208,8 @@
   <string formatted="false" name="edit_short_text_hint">Penser à saisir un message court. Le clavier replace habituellement entrée par un bouton de smiley s\'il est activé.</string>
   <string formatted="false" name="permission_save_to_db">Sauvegarder les message à la base de donnée</string>
   <string formatted="false" name="permission_save_to_db_description">Sauvegarder les messages envoyés avec une autre application à la base de donnée</string>
-  <string formatted="false" name="not_default_app">SMSdroid n\'est pas votre application SMS par défaut</string>
-  <string formatted="false" name="not_default_app_message">SMSdroid à besoin d\'être l\'application SMS par défaut pour fonctionner correctement</string>
+  <string formatted="false" name="not_default_app">REaD n\'est pas votre application SMS par défaut</string>
+  <string formatted="false" name="not_default_app_message">REaD à besoin d\'être l\'application SMS par défaut pour fonctionner correctement</string>
   <string formatted="false" name="forwarded_sms_clean_">Modifier le sms reçu</string>
   <string formatted="false" name="forwarded_sms_clean_hint">Classe les expéditeurs dans les sms reçus selon \"([0-9a-zA-Z]+):\" et utilise ce nombre comme expéditeur.</string>
   <string formatted="false" name="error_unknown">Erreur inconnue</string>

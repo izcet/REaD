@@ -32,7 +32,7 @@ public class MmsReceiver extends BroadcastReceiver {
 
     @Override
     public final void onReceive(final Context context, final Intent intent) {
-        if (SMSdroid.isDefaultApp(context)) {
+        if (REaD.isDefaultApp(context)) {
             SmsReceiver.handleOnReceive(this, context, intent);
         }
     }

@@ -24,7 +24,7 @@
   <string formatted="false" name="feedback_">Informacja zwrotna</string>
   <string formatted="false" name="feedback_hint">Zgłoś błędy, poproś o nowe funkcje...</string>
   <string formatted="false" name="google_plus_hint">Śledź mnie na Google+\nInformacje o aktualizcjach itp.</string>
-  <string formatted="false" name="about0">SMSdroid pozwala czytać SMSy oraz pisać SMSy z dowolnej innej aplikacji.</string>
+  <string formatted="false" name="about0">REaD pozwala czytać SMSy oraz pisać SMSy z dowolnej innej aplikacji.</string>
   <string formatted="false" name="more_apps_">Więcej aplikacji...</string>
   <string formatted="false" name="settings">Preferencje</string>
   <string formatted="false" name="new_message_">Nowa wiadomość</string>
@@ -157,7 +157,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Dekoduj dziesiętne NCR</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Niektórzy operatorzy dostarczają wiadomości w Unicode zakodowane jako dziesiętny NCR. Zaznacz, by dekodować je automatycznie.</string>
   <string formatted="false" name="activate_sender_">Włącz wysyłanie</string>
-  <string formatted="false" name="activate_sender_hint">Włącz moduł wysyłki SMSów bezpośrednio z SMSdroida.</string>
+  <string formatted="false" name="activate_sender_hint">Włącz moduł wysyłki SMSów bezpośrednio z REaDa.</string>
   <string formatted="false" name="fix_numbers_">Poprawiaj numery</string>
   <string formatted="false" name="fix_numbers_hint">Przed wysłaniem zastąp części numeru używając wyrażeń regularnych. Większość użytkowników nie musi tego przestawiać.</string>
   <string formatted="false" name="fix_number1_regex_">Wyrażenie 1</string>

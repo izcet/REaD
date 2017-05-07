@@ -23,7 +23,7 @@
     <string formatted="false" name="feedback_">Feedback</string>
     <string formatted="false" name="feedback_hint">Report bugs, request features ...</string>
     <string formatted="false" name="google_plus_hint">Follow me on Google+.\nGet update notifications etc.</string>
-    <string formatted="false" name="about0">SMSdroid lets you read your sms and write sms with any other app.</string>
+    <string formatted="false" name="about0">REaD lets you read your sms and write sms with any other app.</string>
     <string formatted="false" name="more_apps_">More Apps..</string>
     <string formatted="false" name="settings">Preferences</string>
     <string formatted="false" name="new_message_">New message</string>
@@ -162,7 +162,7 @@
     <string formatted="false" name="decode_decimal_ncr_">Decode Decimal NCR</string>
     <string formatted="false" name="decode_decimal_ncr_hint">Some providers deliver unicode messages encoded as decimal NCR (&amp;#0000;). Check to auto decode such entities.</string>
     <string formatted="false" name="activate_sender_">Activate sender</string>
-    <string formatted="false" name="activate_sender_hint">Activate SMSdroid\'s message sender.</string>
+    <string formatted="false" name="activate_sender_hint">Activate REaD\'s message sender.</string>
     <string formatted="false" name="fix_numbers_">Fix numbers</string>
     <string formatted="false" name="fix_numbers_hint">Replace parts of a number with a regular expression before sending. Most users don\'t need to change this.</string>
     <string formatted="false" name="fix_number1_regex_">Regex 1</string>
@@ -209,8 +209,8 @@
     <string formatted="false" name="edit_short_text_hint">Consider input a short message. The keyboard usually replaces enter with smiley button if enabled.</string>
     <string formatted="false" name="permission_save_to_db">Save messages to database</string>
     <string formatted="false" name="permission_save_to_db_description">Save messages sent by other apps to android message database</string>
-    <string formatted="false" name="not_default_app">SMSdroid is not the default SMS app</string>
-    <string formatted="false" name="not_default_app_message">SMSdroid needs to be the default SMS app to work properly</string>
+    <string formatted="false" name="not_default_app">REaD is not the default SMS app</string>
+    <string formatted="false" name="not_default_app_message">REaD needs to be the default SMS app to work properly</string>
     <string formatted="false" name="forwarded_sms_clean_">Modify received sms</string>
     <string formatted="false" name="forwarded_sms_clean_hint">Strips sender in received sms according to "([0-9a-zA-Z]+):" and use that this number as sender.</string>
     <string formatted="false" name="error_unknown">Unknown error</string>

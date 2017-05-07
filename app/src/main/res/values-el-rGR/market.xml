@@ -19,7 +19,7 @@
         not, see <http://www.gnu.org/licenses/>.
     -->
 <resources>
-  <string formatted="false" name="market_about">Το SMSdroid είναι μια ειδική εφαρμογή μηνυμάτων που σας επιτρέπει να στέλνετε μηνύματα με κάθε άλλη εφαρμογή μηνυμάτων.</string>
+  <string formatted="false" name="market_about">Το REaD είναι μια ειδική εφαρμογή μηνυμάτων που σας επιτρέπει να στέλνετε μηνύματα με κάθε άλλη εφαρμογή μηνυμάτων.</string>
   <string formatted="false" name="market_oss">Αυτή η εφαρμογή είναι ανοιχτού κώδικα και φτιάχνεται στον ελεύθερο χρόνο. Κάνοντας αρνητικά σχόλια στο Play Store δεν βοηθάτε στο να την κάνετε καλύτερη.\nΠαρακαλώ στείλτε τα ζητήματά σας με αυτή την εφαρμογή στην ιστοσελίδα της.</string>
   <string formatted="false" name="market_translation">Νιώστε ελεύθεροι να βοηθήσετε με τη μετάφραση αυτής της εφαρμογής στη γλώσσα σας εδώ: https://crowdin.com/project/smsdroid/invite</string>
 </resources>

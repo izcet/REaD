@@ -24,7 +24,7 @@
   <string formatted="false" name="feedback_">Comentários</string>
   <string formatted="false" name="feedback_hint">Reporte de erros e funcionalidades...</string>
   <string formatted="false" name="google_plus_hint">Seguir no Google+.\nObter notificações e muito mais..</string>
-  <string formatted="false" name="about0">O SMSdroid permite o envio e escrita de SMS através de outras aplicações.</string>
+  <string formatted="false" name="about0">O REaD permite o envio e escrita de SMS através de outras aplicações.</string>
   <string formatted="false" name="more_apps_">Mais aplicações...</string>
   <string formatted="false" name="settings">Preferências</string>
   <string formatted="false" name="new_message_">Nova mensagem</string>
@@ -163,7 +163,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Descodificar NCR decimal</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Alguns serviços enviam mensagens unicode como NCR decimal (�). Ative esta opção para descodificar essas entidades.</string>
   <string formatted="false" name="activate_sender_">Ativar remetente</string>
-  <string formatted="false" name="activate_sender_hint">Ativar remetente do SMSdroid.</string>
+  <string formatted="false" name="activate_sender_hint">Ativar remetente do REaD.</string>
   <string formatted="false" name="fix_numbers_">Corrigir números</string>
   <string formatted="false" name="fix_numbers_hint">Substituir partes do número por uma expressão regular antes de enviar. Maioria dos utilizadores não precisa de alterar a opção.</string>
   <string formatted="false" name="fix_number1_regex_">Regex 1</string>

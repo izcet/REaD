@@ -24,7 +24,7 @@
   <string formatted="false" name="feedback_">Feedback</string>
   <string formatted="false" name="feedback_hint">Fehler melden, neue Funktionen wünschen...</string>
   <string formatted="false" name="google_plus_hint">Folge mir auf Google+.\nErhalte Infos über Updates etc.</string>
-  <string formatted="false" name="about0">SMSdroid erlaubt es dir sms zu lesen und mit jeder beliebigen SMS-App zu schreiben. Insbesondere wird WebSMS unterstützt.</string>
+  <string formatted="false" name="about0">REaD erlaubt es dir sms zu lesen und mit jeder beliebigen SMS-App zu schreiben. Insbesondere wird WebSMS unterstützt.</string>
   <string formatted="false" name="more_apps_">Mehr Apps..</string>
   <string formatted="false" name="settings">Einstellungen</string>
   <string formatted="false" name="new_message_">Neue Nachricht</string>
@@ -163,7 +163,7 @@
   <string formatted="false" name="decode_decimal_ncr_">Decimal NCR dekodieren</string>
   <string formatted="false" name="decode_decimal_ncr_hint">Manche Websms anbieter, z.B. o2 und Arcor kodieren utf-8 Texte als Decimal NCR (&amp;#0000;). Aktiviere es um solche Texte automatisch zu dekodieren.</string>
   <string formatted="false" name="activate_sender_">Aktiviere Sender</string>
-  <string formatted="false" name="activate_sender_hint">Aktiviere SMSdroids SMS Sender.</string>
+  <string formatted="false" name="activate_sender_hint">Aktiviere REaDs SMS Sender.</string>
   <string formatted="false" name="fix_numbers_">Nummern reparieren</string>
   <string formatted="false" name="fix_numbers_hint">Ersetze Teile der Nummer vor dem Senden mit Hilfe Regulärer Ausdrücke. Die meisten Benutzer benötigen hier keine Änderung.</string>
   <string formatted="false" name="fix_number1_regex_">Regex-1</string>
@@ -210,8 +210,8 @@
   <string formatted="false" name="edit_short_text_hint">Eingabe als kurze Nachricht betrachten. Die Tastatur ersetzt dann normalerweise Enter durch Smileys.</string>
   <string formatted="false" name="permission_save_to_db">Nachrichten in Datenbank speichern</string>
   <string formatted="false" name="permission_save_to_db_description">Nachrichten anderer Apps in Datenbank speichern</string>
-  <string formatted="false" name="not_default_app">SMSdroid ist nicht die Standard SMS App</string>
-  <string formatted="false" name="not_default_app_message">SMSdroid muss die Standard SMS App sein, um ordentlich zu funktionieren</string>
+  <string formatted="false" name="not_default_app">REaD ist nicht die Standard SMS App</string>
+  <string formatted="false" name="not_default_app_message">REaD muss die Standard SMS App sein, um ordentlich zu funktionieren</string>
   <string formatted="false" name="forwarded_sms_clean_">Verändere empfangene SMS</string>
   <string formatted="false" name="forwarded_sms_clean_hint">Solltest du von einem anderen Handy auf dieses Handy SMS weiterleiten, kannst du hier die Zuordnung anpassen. Das ist aber normalerweise nicht der Fall. Aktuell wird nach diesem Pattern  \"([0-9a-zA-Z]+):\" gefiltert.</string>
   <string formatted="false" name="error_unknown">Unbekannter Fehler</string>

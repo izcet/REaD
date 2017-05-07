@@ -302,7 +302,7 @@ public final class ConversationListActivity extends AppCompatActivity implements
 
         initAdapter();
 
-        if (!SMSdroid.isDefaultApp(this)) {
+        if (!REaD.isDefaultApp(this)) {
             AlertDialog.Builder b = new AlertDialog.Builder(this);
             b.setTitle(R.string.not_default_app);
             b.setMessage(R.string.not_default_app_message);
@@ -323,7 +323,7 @@ public final class ConversationListActivity extends AppCompatActivity implements
     }
 
     private void initAdapter() {
-        if (!SMSdroid.requestPermission(this, Manifest.permission.READ_SMS,
+        if (!REaD.requestPermission(this, Manifest.permission.READ_SMS,
                 PERMISSIONS_REQUEST_READ_SMS, R.string.permissions_read_sms,
                 new DialogInterface.OnClickListener() {
                     @Override
@@ -334,7 +334,7 @@ public final class ConversationListActivity extends AppCompatActivity implements
             return;
         }
 
-        if (!SMSdroid.requestPermission(this, Manifest.permission.READ_CONTACTS,
+        if (!REaD.requestPermission(this, Manifest.permission.READ_CONTACTS,
                 PERMISSIONS_REQUEST_READ_CONTACTS, R.string.permissions_read_contacts,
                 new DialogInterface.OnClickListener() {
                     @Override

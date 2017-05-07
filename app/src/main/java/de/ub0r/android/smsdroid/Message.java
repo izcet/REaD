@@ -674,7 +674,7 @@ public final class Message {
             @Override
             public boolean onLongClick(final View v) {
                 // check/request permission Manifest.permission.WRITE_EXTERNAL_STORAGE
-                if (!SMSdroid.requestPermission(context, Manifest.permission.WRITE_EXTERNAL_STORAGE, 0, R.string.permissions_write_external_storage, null)) {
+                if (!REaD.requestPermission(context, Manifest.permission.WRITE_EXTERNAL_STORAGE, 0, R.string.permissions_write_external_storage, null)) {
                     return true;
                 }
 
